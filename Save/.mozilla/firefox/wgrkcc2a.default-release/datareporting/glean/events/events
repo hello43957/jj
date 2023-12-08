@@ -1,0 +1,9 @@
+{"timestamp":2206670,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":2211116,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"52ad3688-7963-4427-933f-883b5516e424","experiment":"csv-import-release-rollout","experiment_type":"rollout","branch":"enable-csv-import"}}
+{"timestamp":2211164,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment":"ech-roll-out","enrollment_id":"a4a6f97e-0a71-4c98-9027-b8a12b8d85a2","experiment_type":"rollout"}}
+{"timestamp":2211311,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment":"fox-doodle-set-to-default-early-day-user-car-fox-rollout","experiment_type":"rollout","enrollment_id":"11367961-839b-4a14-9002-eb0c435f39bf"}}
+{"timestamp":2211521,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"rollout-of-share-of-voice-for-sponsored-topsites","enrollment_id":"5e848918-a83d-4927-940e-206e83e2696d","experiment_type":"rollout","branch":"control"}}
+{"timestamp":2211537,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"serp-ad-telemetry-rollout","branch":"control","experiment_type":"rollout","enrollment_id":"c3e65e64-8ba4-4d6f-9a7d-8d9d6d052b08"}}
+{"timestamp":2211550,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment","enrollment_id":"f45bb00e-161b-4f65-9ec7-c9e8af903f07","experiment":"upgrade-spotlight-rollout","experiment_type":"rollout"}}
+{"timestamp":2211552,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":2236707,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
