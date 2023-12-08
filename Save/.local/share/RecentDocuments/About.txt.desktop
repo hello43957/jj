@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=About.txt
+Type=Link
+URL[$e]=file:$HOME/Desktop/About.txt
+X-KDE-LastOpenedWith=org.kde.kwrite
